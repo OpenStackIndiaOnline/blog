@@ -20,14 +20,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('OpenStack', 'http://openstack.org/'),
+         ('OpenStackIndiaOnline Github' , 'https://github.com/OpenStackIndiaOnline'),
+         ('Join Us' , 'http://goo.gl/forms/HEF5e8qBBV'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'https://twitter.com/OpenStackINOnl'),
+          ('Facebook', 'https://www.facebook.com/openstackindiaonline'),
+          ('YouTube', 'https://www.youtube.com/channel/UCNEMU-OZiFWgrl8Qs5Tut0g'),)
 
 DEFAULT_PAGINATION = 10
 
