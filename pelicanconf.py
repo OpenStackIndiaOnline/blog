@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'OpenStack India Online'
 SITENAME = u'OpenStack India Online Blog'
-SITEURL = ''
+SITEURL = 'openstackindiaonline.github.io'
 
 PATH = 'content'
 
