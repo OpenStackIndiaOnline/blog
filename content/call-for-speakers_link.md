@@ -1,11 +1,11 @@
-Title: Call fo Speakers
+Title: Call for Speakers
 Date: 2015-10-19 12:30
 Modified: 2015-10-19 12:30
-Category: Call For Speakers, OpenStack
+Category: OpenStacK
 Tags: announcement, openstack
 Slug:call-for-speakers
 Authors: Swapnil Kulkarni
-Summary: Call fo Speakers
+Summary: Call for Speakers
 
 Are you passionate about OpenStack?
 Do you contribute to OpenStack?
