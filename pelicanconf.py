@@ -22,7 +22,8 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('OpenStack', 'http://openstack.org/'),
          ('OpenStackIndiaOnline Github' , 'https://github.com/OpenStackIndiaOnline'),
-         ('Join Us' , 'http://goo.gl/forms/HEF5e8qBBV'),)
+         ('Join Us' , 'http://goo.gl/forms/HEF5e8qBBV'),
+         ('Freenode' , 'http://webchat.freenode.net/?channels=openstackindia'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/OpenStackINOnl'),
