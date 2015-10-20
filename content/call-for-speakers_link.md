@@ -1,7 +1,7 @@
 Title: Call for Speakers
 Date: 2015-10-19 12:30
 Modified: 2015-10-19 12:30
-Category: OpenStacK
+Category: Call For Speakers
 Tags: announcement, openstack
 Slug:call-for-speakers
 Authors: Swapnil Kulkarni

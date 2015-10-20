@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>OpenStack India Online Blog</title><link href="http://openStackindiaonline.github.io/" rel="alternate"></link><link href="http://openStackindiaonline.github.io/feeds/call-for-speakers.atom.xml" rel="self"></link><id>http://openStackindiaonline.github.io/</id><updated>2015-10-19T12:30:00+05:30</updated><entry><title>Call for Speakers</title><link href="http://openStackindiaonline.github.io/call-for-speakers.html" rel="alternate"></link><updated>2015-10-19T12:30:00+05:30</updated><author><name>Swapnil Kulkarni</name></author><id>tag:openStackindiaonline.github.io,2015-10-19:call-for-speakers.html</id><summary type="html">&lt;p&gt;Are you passionate about OpenStack?
+Do you contribute to OpenStack?&lt;/p&gt;
+&lt;p&gt;We request you to come forward and talk with like-minded-people, share your views and collaborate.&lt;/p&gt;
+&lt;p&gt;You can talk about&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenStack Service It can cover Introduction to the service, Implementation Details, Contributing Guidelines etc&lt;/li&gt;
+&lt;li&gt;Using OpenStack&lt;/li&gt;
+&lt;li&gt;Hands On Tutorials&lt;/li&gt;
+&lt;li&gt;Hackathon&lt;/li&gt;
+&lt;li&gt;Anything else you think is helpful on OpenStack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://goo.gl/forms/HEF5e8qBBV"&gt;Join Us&lt;/a&gt; with the your details or alternatively submit your &lt;a href="http://goo.gl/forms/R4Rr1DsrpI"&gt;proposals&lt;/a&gt;.&lt;/p&gt;</summary><category term="announcement"></category><category term="openstack"></category></entry></feed>
