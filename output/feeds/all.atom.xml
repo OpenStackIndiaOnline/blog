@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>OpenStack India Online Blog</title><link href="http://openStackindiaonline.github.io/" rel="alternate"></link><link href="http://openStackindiaonline.github.io/feeds/all.atom.xml" rel="self"></link><id>http://openStackindiaonline.github.io/</id><updated>2015-10-19T12:30:00+05:30</updated><entry><title>Call for Speakers</title><link href="http://openStackindiaonline.github.io/call-for-speakers.html" rel="alternate"></link><updated>2015-10-19T12:30:00+05:30</updated><author><name>Swapnil Kulkarni</name></author><id>tag:openStackindiaonline.github.io,2015-10-19:call-for-speakers.html</id><summary type="html">&lt;p&gt;Are you passionate about OpenStack?
+<feed xmlns="http://www.w3.org/2005/Atom"><title>OpenStack India Online Blog</title><link href="http://openStackindiaonline.github.io/" rel="alternate"></link><link href="http://openStackindiaonline.github.io/feeds/all.atom.xml" rel="self"></link><id>http://openStackindiaonline.github.io/</id><updated>2015-10-20T12:30:00+05:30</updated><entry><title>We are now on Freenode with #openstackindia</title><link href="http://openStackindiaonline.github.io/we-are-now-on-freenode.html" rel="alternate"></link><updated>2015-10-20T12:30:00+05:30</updated><author><name>Swapnil Kulkarni</name></author><id>tag:openStackindiaonline.github.io,2015-10-20:we-are-now-on-freenode.html</id><summary type="html">&lt;p&gt;Greetings,&lt;/p&gt;
+&lt;p&gt;We are making baby steps in starting the OpenStack India Online Meetup series and one of the important part of it is to collaborate with each other to get the best out of what we can.&lt;/p&gt;
+&lt;p&gt;To facilitate this we have created an IRC channel &lt;a href="http://webchat.freenode.net/?channels=openstackindia"&gt;#openstackindia&lt;/a&gt; for everyone to join.&lt;/p&gt;
+&lt;p&gt;Please drop by and say hello!&lt;/p&gt;
+&lt;h4&gt;We all #love #OpenStack. Lets make the community stronger.&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://goo.gl/forms/HEF5e8qBBV"&gt;Join Us&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://webchat.freenode.net/?channels=openstackindia"&gt;Freenode&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Follow us on Social Networks&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/OpenStackINOnl"&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCNEMU-OZiFWgrl8Qs5Tut0g"&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.facebook.com/openstackindiaonline"&gt;Facebook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/OpenStackIndiaOnline"&gt;Github&lt;/a&gt;&lt;/p&gt;</summary><category term="announcement"></category><category term="openstack"></category></entry><entry><title>Call for Speakers</title><link href="http://openStackindiaonline.github.io/call-for-speakers.html" rel="alternate"></link><updated>2015-10-19T12:30:00+05:30</updated><author><name>Swapnil Kulkarni</name></author><id>tag:openStackindiaonline.github.io,2015-10-19:call-for-speakers.html</id><summary type="html">&lt;p&gt;Are you passionate about OpenStack?
 Do you contribute to OpenStack?&lt;/p&gt;
 &lt;p&gt;We request you to come forward and talk with like-minded-people, share your views and collaborate.&lt;/p&gt;
 &lt;p&gt;You can talk about&lt;/p&gt;
